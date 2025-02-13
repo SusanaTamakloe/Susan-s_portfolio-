@@ -13,5 +13,6 @@ Currently working on SQL projects focused on data cleaning, transformation & ana
 📩 susantamakloe2016@gmail.com
 🔗 LinkedIn http://linkedin.com/in/susanasenatamakloe
 💻 GitHub 
+https://susanatamakloe.github.io/Susan-s_portfolio-/
 
 
