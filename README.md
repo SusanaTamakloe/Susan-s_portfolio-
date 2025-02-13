@@ -9,11 +9,12 @@ Hi, I'm Susana, a Data Analyst passionate about turning data into actionable ins
 📂 Projects (In Progress)
 Currently working on SQL projects focused on data cleaning, transformation & analysis. More projects, including Power BI, Python, and Tableau, coming soon!
 
-🔗 Connect With Me
-📩 susantamakloe2016@gmail.com
-🔗 LinkedIn http://linkedin.com/in/susanasenatamakloe
+## 📬 Connect With Me  
+📧 **Email:** mailto:susantamakloe2016@gmail.com
 
-💻 GitHub 
-https://susanatamakloe.github.io/Susan-s_portfolio-/
+🔗 **LinkedIn:**      https://linkedin.com/in/susanasenatamakloe 
+
+💻 **GitHub Portfolio:** https://susanatamakloe.github.io/Susan-s_portfolio-/
+
 
 
